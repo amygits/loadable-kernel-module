@@ -78,6 +78,6 @@ module_init( simple_init );
 module_exit( simple_exit );
 
 MODULE_LICENSE("GPL");
-MODULE_DESCRIPTION("LMK");
+MODULE_DESCRIPTION("LMK to display certains details on specified processes");
 MODULE_AUTHOR("Amy Ma (amyma1@asu.edu)");
 
